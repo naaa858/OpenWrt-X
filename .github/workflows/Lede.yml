@@ -30,9 +30,21 @@ on:
           - 'asus_rt-acrh17'
           - 'd-team_newifi-d2'
           - 'p2w_r619ac-128m'
+          - 'k2p
+          - 'n1
+          - 'newifi-d1
+          - 'newifi-d2
+          - 'p2w_r619ac-128m
+          - 'r2c
+          - 'r2s
+          - 'r4s
+          - 'r5s
+          - 'r68s
+          - 'r6s
           - 'phicomm_k2p'
           - 'x86_32'
           - 'x86_64'
+          - 'xiaomi_mi-router-3g
           - 'xiaomi_mi-router-4a-gigabit'
           - 'xiaomi_redmi-router-ac2100'
           - 'xiaomi_redmi-router-ax6s'
