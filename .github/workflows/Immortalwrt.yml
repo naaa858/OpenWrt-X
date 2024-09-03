@@ -38,6 +38,7 @@ on:
           - 'n1'
           - 'newifi-d1'
           - 'newifi-d2'
+          - 'photonicatWrt'
           - 'p2w_r619ac-128m'
           - 'r2c'
           - 'r2s'
