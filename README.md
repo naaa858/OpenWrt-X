@@ -66,7 +66,6 @@ cd openwrt && make menuconfig
 - ![img2.png](backups/实例/3img.png)
 - ![img3.png](backups/实例/4img.png)
 - ![img2.png](backups/实例/5img.png)
-- ![img3.png](backups/实例/1img.png)
 ### 另外单独鸣谢！🎉
  以下各位大佬（排名无分先后）<br />
  
