@@ -43,12 +43,12 @@ cd openwrt && make menuconfig
 - 
 ## 自动更新固件用的不朽作为示列图片
 - ![img.png](backups/实例/img.png)
-![1.png](backups/实例/1img.png)
-![2.png](backups/实例/2img.png)
-![img2.png](backups/实例/3img.png)
-![img3.png](backups/实例/4img.png)
-![img2.png](backups/实例/5img.png)
-![img3.png](backups/实例/1img.png)
+- ![1.png](backups/实例/1img.png)
+- ![2.png](backups/实例/2img.png)
+- ![img2.png](backups/实例/3img.png)
+- ![img3.png](backups/实例/4img.png)
+- ![img2.png](backups/实例/5img.png)
+- ![img3.png](backups/实例/1img.png)
 ### 另外单独鸣谢！🎉
  以下各位大佬（排名无分先后）<br />
  [`coolsnowwolf`](https://github.com/coolsnowwolf/lede/tree/master)
@@ -70,6 +70,6 @@ cd openwrt && make menuconfig
 </div>
 
 ### Friendly sociability
-[![Telegram](https://img.shields.io/badge/-Telegram-D114855?style=flat&logo=Telegraml&logoColor=white)](https://t.me/+LPeqwOcUjk40ZjRl)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Namia-A)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
+- [![Telegram](https://img.shields.io/badge/-Telegram-D114855?style=flat&logo=Telegraml&logoColor=white)](https://t.me/+LPeqwOcUjk40ZjRl)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Namia-A)
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
