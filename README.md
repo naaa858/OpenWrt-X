@@ -42,7 +42,7 @@ cd openwrt && make menuconfig
 - =============================================================================================
 - 
 ## 自动更新固件用的不朽作为示列图片
-![img.png](backups/实例/img.png)
+- ![img.png](backups/实例/img.png)
 ![1.png](backups/实例/1img.png)
 ![2.png](backups/实例/2img.png)
 ![img2.png](backups/实例/3img.png)
