@@ -78,7 +78,6 @@ cd openwrt && make menuconfig
  [`P3TERX`](https://github.com/P3TERX/Actions-OpenWrt)
  [`dhxh`](https://github.com/dhxh/Openwrt-Build)
  [`ophub`](https://github.com/ophub/amlogic-s9xxx-openwrt)
- [`nicholas-opensource`](https://github.com/nicholas-opensource/OpenWrt-Autobuild)
  [`klever1988`](https://github.com/klever1988/cachewrtbuild)
  [`actions`](https://github.com/actions/upload-artifact)
  [`svenstaro`](https://github.com/svenstaro/upload-release-action)
