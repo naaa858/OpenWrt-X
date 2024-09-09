@@ -5,8 +5,7 @@
 <div align="center">
   
 ###  基于Actions-OpenWrt.自动化在线编译脚本简单简介
-# SSH命令
-          cd openwrt && make menuconfig
+
 ### 禁止6.1-6.6内核安装luci-app-netspeedtest!!!!!!!
 
 ### 关于分支和内核的问题！
