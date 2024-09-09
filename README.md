@@ -1,10 +1,15 @@
+###  基于Actions-OpenWrt.自动化在线编译脚本简单简介
+
 <h3 align="center"><samp> Hi, I'Namia-A👋 </samp></h4> 
 <h1 align="center">Fully automatic online compilation💻</h1>
 <p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=DeveloperMDCM&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
-  
-###  基于Actions-OpenWrt.自动化在线编译脚本简单简介
+
+#### 💕 源码拉取`coolsnowwolf` `Lienol` `immortalwrt` `x-wrt` `openwrt` 自行选择编译
+- 默认IP地址：`192.168.5.1`
+- 账户：`root`   密码：`空`
+
 ### 💕💕文化有限正在学习中💕💕
 - =============================================================================================
 - 第一X86_64固件本人尽量用最新master或者23.05分支，用6.1和6.6的内核来结合编译编译出来的都可以使用自行U盘或者PE安装。
