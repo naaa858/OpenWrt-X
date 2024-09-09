@@ -3,7 +3,7 @@
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
 
-name: LEDE Update Checker
+name: Automatic update
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
