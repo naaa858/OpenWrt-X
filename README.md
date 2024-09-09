@@ -72,6 +72,7 @@ cd openwrt && make menuconfig
  [`OpenWrtLi`](https://github.com/OpenWrtLi/OpenWrtli)
  
 </div>
+
 ### Friendly sociability
 [![Telegram](https://img.shields.io/badge/-Telegram-D114855?style=flat&logo=Telegraml&logoColor=white)](https://t.me/+LPeqwOcUjk40ZjRl)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Namia-A)
