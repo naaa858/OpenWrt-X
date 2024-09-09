@@ -1,4 +1,4 @@
-- 基于Actions-OpenWrt.自动化在线编译脚本简单简介
+
 
 <h3 align="center"><samp> Hi, I'Namia-A👋 </samp></h4> 
 <h1 align="center">Fully automatic online compilation💻</h1>
@@ -6,7 +6,8 @@
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
 
-#### 💕 源码拉取`coolsnowwolf` `Lienol` `immortalwrt` `x-wrt` `openwrt` 自行选择编译
+### 基于Actions-OpenWrt.自动化在线编译脚本简单简介
+#### 💕 源码拉取`coolsnowwolf` `Lienol` `immortalwrt` `x-wrt` `openwrt` 自行选择编译💕
 - 默认IP地址：`192.168.5.1`
 - 账户：`root`   密码：`空`
 
