@@ -10,7 +10,7 @@
 现阶段大雕6.6正在测试天假模块及其驱动
 
 
-这下面是光影猫基础配置，如果想自己编译就先把这个复制在文件下嘛，在SSH选取你自己所学要的编译。
+这下面是光影猫基础配置，如果想自己编译就先把这个复制在设备文件下，在SSH选取你自己所学要的编译。
 CONFIG_TARGET_rockchip=y
 CONFIG_TARGET_rockchip_armv8=y
 CONFIG_TARGET_rockchip_armv8_DEVICE_ariaboard_photonicat=y
