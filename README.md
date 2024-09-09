@@ -51,6 +51,7 @@ cd openwrt && make menuconfig
 - ![img3.png](backups/实例/1img.png)
 ### 另外单独鸣谢！🎉
  以下各位大佬（排名无分先后）<br />
+ 
  [`coolsnowwolf`](https://github.com/coolsnowwolf/lede/tree/master)
  [`Lienol`](https://github.com/Lienol/openwrt/tree/21.02)
  [`immortalwrt`](https://github.com/immortalwrt/immortalwrt)
@@ -66,7 +67,6 @@ cd openwrt && make menuconfig
  [`jerrykuku`](https://github.com/jerrykuku/luci-theme-argon)
  [`281677160`](https://github.com/281677160/bendi)
  [`OpenWrtLi`](https://github.com/OpenWrtLi/OpenWrtli)
- 
 </div>
 
 ### Friendly sociability
