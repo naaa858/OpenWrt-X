@@ -21,10 +21,7 @@
  [`插件对照表！！！💕`](https://raw.githubusercontent.com/Namia-A/OpenWrt-X/main/backups/%E6%8F%92%E4%BB%B6%E5%AF%B9%E7%85%A7%E8%A1%A8/txt)
 
 ### 💕💕文化有限正在学习中💕💕
-### Friendly sociability
-[![Telegram](https://img.shields.io/badge/-Telegram-D114855?style=flat&logo=Telegraml&logoColor=white)](https://t.me/+LPeqwOcUjk40ZjRl)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Namia-A)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
+
 
 - ================================================================
 - 首先需要打开 Openwrt 主页,点击系统-TTYD 命令窗,或者使用```putty```或者```openwrt```后台luci插件在线更新 
@@ -75,3 +72,7 @@ cd openwrt && make menuconfig
  [`OpenWrtLi`](https://github.com/OpenWrtLi/OpenWrtli)
  
 </div>
+### Friendly sociability
+[![Telegram](https://img.shields.io/badge/-Telegram-D114855?style=flat&logo=Telegraml&logoColor=white)](https://t.me/+LPeqwOcUjk40ZjRl)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Namia-A)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
