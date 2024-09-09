@@ -1,22 +1,16 @@
--.-时间都在2-3小时左右！固件ip 192.168.5.1 密码【空】
-
 -.-大众常用是18.06lede的所以你直接无脑点击编译就行插件已经基于本人测试完毕直接使用！不想用的直接在seed删除
-未删除的向这种CONFIG_PACKAGE_luci-app-accesscontrol=y
-你要删除的向这种# CONFIG_PACKAGE_luci-app-accesscontrol is not set
-你要添加的向这种CONFIG_PACKAGE_xxxxxxx=y    x代表你的插件名字
-
--.-其他分支正在测试中💕！
-
-                我是一个没有感情的虚线-.-！【正在测试Lienol编译6.6内核固件】！ 其他直接编译或者ssh选取你自己所需💕!
-                不要一下拉别人的配置文件有可能开头不对会出错先SSH链接选取
-                lede源码6.6不要编译luci-app-netspeedtest
-
-
+比如说设备文件下出现、CONFIG_PACKAGE_luci-app-accesscontrol=y那么说明这是你正在装的插件
+相反要删除的向这种、# CONFIG_PACKAGE_luci-app-accesscontrol is not set这个就说明你不需要它的
+你要添加的就是这种CONFIG_PACKAGE_xxxxxxx=y    x代表你的插件名字
 
 编译不了的就去6.1选取编译
 
+正在测试rk3568光影猫
+现阶段天灵5.1、可以正常编译
+现阶段大雕6.6正在测试天假模块及其驱动
 
-光影猫基础配置如下
+
+这下面是光影猫基础配置，如果想自己编译就先把这个复制在文件下嘛，在SSH选取你自己所学要的编译。
 CONFIG_TARGET_rockchip=y
 CONFIG_TARGET_rockchip_armv8=y
 CONFIG_TARGET_rockchip_armv8_DEVICE_ariaboard_photonicat=y
