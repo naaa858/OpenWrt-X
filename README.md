@@ -16,7 +16,7 @@
 [![Lienol](https://img.shields.io/badge/Lienol-OpenWrt-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/Lienol/openwrt/tree/employ) 
 [![openwrt](https://img.shields.io/badge/Official-OpenWrt-red.svg?style=flat&logo=appveyor)](https://github.com/openwrt/openwrt/tree/master)
 [![Xwrt](https://img.shields.io/badge/Xwrt-OpenWrt-orange.svg?style=flat&logo=appveyor)](https://github.com/x-wrt/x-wrt) 
-[![281677160](https://img.shields.io/badge/281677160-OpenWrt-orange.svg?style=flat&logo=appveyor)](https://github.com/281677160/bendi) 
+[![281677160](https://img.shields.io/badge/2Actions-OpenWrt-orange.svg?style=flat&logo=appveyor)](https://github.com/281677160/bendi) 
 
 #### 💕💕 点击下表中 [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?style=flat&logo=hack-the-box)](https://github.com/Namia-A/OpenWrt-X/releases) 即可跳转到该设备固件下载页面💕💕
 | 平台+设备名称 | 固件编译状态 | 配置文件 | 固件下载 |
@@ -74,24 +74,6 @@ cd openwrt && make menuconfig
 - ![img2.png](backups/实例/3img.png)
 - ![img3.png](backups/实例/4img.png)
 - ![img2.png](backups/实例/5img.png)
-### 另外单独！🎉
- 以下各位大佬（排名无分先后）<br />
- 
- [`coolsnowwolf`](https://github.com/coolsnowwolf/lede/tree/master)
- [`Lienol`](https://github.com/Lienol/openwrt/tree/21.02)
- [`immortalwrt`](https://github.com/immortalwrt/immortalwrt)
- [`openwrt`](https://github.com/openwrt/openwrt)
- [`x-wrt`](https://github.com/x-wrt/x-wrt)
- [`P3TERX`](https://github.com/P3TERX/Actions-OpenWrt)
- [`dhxh`](https://github.com/dhxh/Openwrt-Build)
- [`ophub`](https://github.com/ophub/amlogic-s9xxx-openwrt)
- [`klever1988`](https://github.com/klever1988/cachewrtbuild)
- [`actions`](https://github.com/actions/upload-artifact)
- [`svenstaro`](https://github.com/svenstaro/upload-release-action)
- [`jerrykuku`](https://github.com/jerrykuku/luci-theme-argon)
- [`281677160`](https://github.com/281677160/bendi)
- [`OpenWrtLi`](https://github.com/OpenWrtLi/OpenWrtli)
-</div>
 
 ### Friendly sociability
 - [![Telegram](https://img.shields.io/badge/-Telegram-D114855?style=flat&logo=Telegraml&logoColor=white)](https://t.me/+LPeqwOcUjk40ZjRl)
