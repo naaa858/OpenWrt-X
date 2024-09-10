@@ -37,7 +37,7 @@
              特例-不是很推荐xwrt主分支此分支同步的是官方主分支你可以尝试其他xwrt分支！
 
 - [`必看项！！！💕`](https://github.com/Namia-A/OpenWrt-X/blob/main/backups/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt)
-- [`插件对照表！！！💕`](https://raw.githubusercontent.com/Namia-A/OpenWrt-X/main/backups/%E6%8F%92%E4%BB%B6%E5%AF%B9%E7%85%A7%E8%A1%A8/txt)
+
 - 首先需要打开 Openwrt 主页,点击系统-TTYD 命令窗,或者使用```putty```或者```openwrt```后台luci插件在线更新 
 - 输入`openwrt`即可进入固件升级菜单                            
 - 输入`tools`即可打开工具箱
@@ -49,7 +49,8 @@
 - ssh-actions改为ssh就可以启动插件选择
 - 看到ssh链接会有一个web的链接，打开就是命令行，根据下面命令进入
 - 开始 ctrl+c 
-- 进ssh选择插件 
+- 进ssh选择插件
+- [`插件对照表！！！💕`](https://raw.githubusercontent.com/Namia-A/OpenWrt-X/main/backups/%E6%8F%92%E4%BB%B6%E5%AF%B9%E7%85%A7%E8%A1%A8/txt)
 ``` bash
 cd openwrt && make menuconfig
 ```
