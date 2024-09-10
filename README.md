@@ -16,7 +16,7 @@
 [![Lienol](https://img.shields.io/badge/Lienol-OpenWrt-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/Lienol/openwrt/tree/employ) 
 [![openwrt](https://img.shields.io/badge/Official-OpenWrt-red.svg?style=flat&logo=appveyor)](https://github.com/openwrt/openwrt/tree/master)
 [![Xwrt](https://img.shields.io/badge/Xwrt-OpenWrt-orange.svg?style=flat&logo=appveyor)](https://github.com/x-wrt/x-wrt) 
-[![281677160](https://img.shields.io/badge/2Actions-OpenWrt-orange.svg?style=flat&logo=appveyor)](https://github.com/281677160/bendi) 
+[![281677160](https://img.shields.io/badge/Actions-OpenWrt-orange.svg?style=flat&logo=appveyor)](https://github.com/281677160/bendi) 
 
 #### 💕💕 点击下表中 [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?style=flat&logo=hack-the-box)](https://github.com/Namia-A/OpenWrt-X/releases) 即可跳转到该设备固件下载页面💕💕
 | 平台+设备名称 | 固件编译状态 | 配置文件 | 固件下载 |
