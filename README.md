@@ -45,8 +45,7 @@
 
 - ================================================================
 - 自行云编译固件姿势
-- ssh-actions改为ssh就可以启动插件选择
-- 看到ssh链接会有一个web的链接，打开就是命令行，根据下面命令进入
+- 你会看到不是需要ssh，点打开，最后点击运行程序就可以编译了
 - 开始 ctrl+c 
 - 进ssh选择插件
 - [`插件对照表！！！💕`](https://raw.githubusercontent.com/Namia-A/OpenWrt-X/main/backups/%E6%8F%92%E4%BB%B6%E5%AF%B9%E7%85%A7%E8%A1%A8/txt)
