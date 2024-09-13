@@ -33,8 +33,9 @@ on:
         default: 'x86_64'
         type: choice
         options:
-          - 'x86_64'
           - 'aarch64'
+          - 'photonicatWrt'
+          - 'x86_64'+
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
         required: true
