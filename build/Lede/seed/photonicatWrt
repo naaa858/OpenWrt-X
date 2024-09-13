@@ -36,7 +36,8 @@ CONFIG_PACKAGE_firewall4=y
 CONFIG_PACKAGE_fstools=y
 CONFIG_DEFAULT_fstools=y
 ipv6helper
-iwinfo 
+CONFIG_DEFAULT_iwinfo=y
+CONFIG_PACKAGE_iwinfo=y
 CONFIG_PACKAGE_libc=y
 CONFIG_DEFAULT_libc=y
 CONFIG_DEFAULT_libgcc=y
