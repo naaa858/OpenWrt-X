@@ -1,4 +1,6 @@
-
+CONFIG_TARGET_rockchip=y
+CONFIG_TARGET_rockchip_armv8=y
+CONFIG_TARGET_rockchip_armv8_DEVICE_ariaboard_photonicat=y
 
 CONFIG_DEFAULT_ath10k-firmware-qca9377-sdio=y
 CONFIG_DEFAULT_autocore-arm=y
