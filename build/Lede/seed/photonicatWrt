@@ -1,6 +1,10 @@
 CONFIG_PACKAGE_kmod-usb-net-sierrawireless=y
 CONFIG_PACKAGE_wireless-regdb=y
 CONFIG_PACKAGE_sqm=y
+CONFIG_PACKAGE_luci-app-modem-datay
+CONFIG_PACKAGE_luci-app-zmodem=y
+CONFIG_PACKAGE_luci-app-autoreboot	=y
+
 
 
 
