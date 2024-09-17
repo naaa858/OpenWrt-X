@@ -1,7 +1,5 @@
 CONFIG_TARGET_rockchip=y
 CONFIG_TARGET_rockchip_armv8=y
-CONFIG_TARGET_rockchip_armv8_DEVICE_ariaboard_photonicat=y
-
 CONFIG_TARGET_MULTI_PROFILE=y
 CONFIG_ATH_USER_REGD=y
 CONFIG_BIND_ENABLE_DOH=y
