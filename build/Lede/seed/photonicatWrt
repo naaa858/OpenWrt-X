@@ -1,5 +1,3 @@
-这下面是光影猫占时基础配置，
-如果想自己编译就先把下面这些个配置文件复制在设备文件下，在SSH选取你自己所需要的编译。
 
 ONFIG_TARGET_rockchip=y
 CONFIG_TARGET_rockchip_armv8=y
